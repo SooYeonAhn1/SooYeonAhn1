@@ -1,6 +1,8 @@
 ## Welcome to SooYeon's GitHub! 👋
 
-Hi, I'm SooYeon Ahn, a software engineer who believes in speed and accuracy. As you can guess from what I believe, my favorite programming language is C/C++. Don't close the window yet, though. I also believe that a project cannot persist without feedback, which is what led me to dig into web development lately. After graduating from UIUC with a B.S. in math and computer science, I've been exploring web development. Currently, I'm primarily working with JavaScript, Node.js, Express.js, and React, and occasionally experimenting with React Native as well. Apart from the languages I mentioned, I also do MongoDB, MySQL, Java, and Python.
+Hi, I'm SooYeon Ahn, a software engineer who believes in speed and accuracy.
+
+As you can guess from what I believe, my favorite programming language is C/C++. Don't close the window yet, though. I also believe that a project cannot persist without feedback, which is what led me to dig into web development lately. After graduating from UIUC with a B.S. in math and computer science, I've been exploring web development. Currently, I'm primarily working with JavaScript, Node.js, Express.js, and React, and occasionally experimenting with React Native as well. Apart from the languages I mentioned, I also do MongoDB, MySQL, Java, and Python.
 
 Some programming languages on my to-learn list are Rust and Go. Coincidentally, I like studying natural languages in my free time:)
 
